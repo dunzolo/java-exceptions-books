@@ -1,0 +1,6 @@
+(L)
+Titolo: prova
+Numero di pagine: 10
+Autore: prova
+Editore: prova
+-----------------
